@@ -1,4 +1,7 @@
-# GEOG458-Lab2
+# Geo-tagged tweet collection and visualization
+____________________________________________________________________________________________________________________________________________________________________
+
+#### This is an assignment for GEOG 458 - Lab 2 in UW. 
 
 **This repo contains:**
 * Modified .ipynb crawler script
